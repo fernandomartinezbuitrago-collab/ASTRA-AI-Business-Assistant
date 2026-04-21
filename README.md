@@ -13,7 +13,7 @@ Los chatbots de IA tradicionales a menudo proporcionan respuestas conversacional
 
 ¿Quieres ver cómo funciona ASTRA en tiempo real? En este breve vídeo te muestro el flujo completo: desde el envío de la idea en Discord hasta la generación automatizada del Plan de Negocio y el Pitch Deck.
 
-[![Ver Demo de ASTRA](https://img.youtube.com/vi/TU_CODIGO_DE_VIDEO_AQUI/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_CODIGO_DE_VIDEO_AQUI)
+[![Ver Demo de ASTRA] (https://www.youtube.com/watch?v=XkO5q6yIisA&t=26s)
 
 ## 🏗️ Arquitectura del Sistema
 

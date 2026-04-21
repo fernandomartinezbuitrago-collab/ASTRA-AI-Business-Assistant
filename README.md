@@ -9,6 +9,12 @@ Los chatbots de IA tradicionales a menudo proporcionan respuestas conversacional
 * **Usuario Objetivo:** Emprendedores, consultores de innovación y estudiantes.
 * **Propósito:** Validar hipótesis y estructurar ideas de negocio rápidamente sin intervención manual intermedia.
 
+* ## 📺 Demostración en Vídeo (Walkthrough)
+
+¿Quieres ver cómo funciona ASTRA en tiempo real? En este breve vídeo te muestro el flujo completo: desde el envío de la idea en Discord hasta la generación automatizada del Plan de Negocio y el Pitch Deck.
+
+[![Ver Demo de ASTRA](https://img.youtube.com/vi/TU_CODIGO_DE_VIDEO_AQUI/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_CODIGO_DE_VIDEO_AQUI)
+
 ## 🏗️ Arquitectura del Sistema
 
 El flujo de trabajo consta de los siguientes componentes clave:
